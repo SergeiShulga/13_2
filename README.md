@@ -5,11 +5,11 @@
 
 Установите eCryptfs.
  
-sudo apt install ecryptfs-utils
+- sudo apt install ecryptfs-utils
 
 Добавьте пользователя cryptouser.
 
-adduser cryptouser
+- adduser cryptouser
 
 Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 
@@ -17,10 +17,8 @@ adduser cryptouser
 
 Для его запуска пользователь должен выйти из системы и не оставить никаких запущенных от его имени процессов. Лучший способ добиться этого — выйти из системы, войти в консоль как root и проверить, что команда ps -U cryptouser ничего не выводит. Также убедитесь, что у вас установлены rsync, lsof и which. После того как все необходимые условия выполнены, выполните:
 
-modprobe ecryptfs
-ecryptfs-migrate-home -u cryptouser
-
-
+- modprobe ecryptfs
+- ecryptfs-migrate-home -u cryptouser
 
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
 
