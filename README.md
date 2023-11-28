@@ -30,6 +30,18 @@
 
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
+![alt text](https://github.com/SergeiShulga/13_2/blob/main/img/003.png)
+
+![alt text](https://github.com/SergeiShulga/13_2/blob/main/img/004.png)
+
+![alt text](https://github.com/SergeiShulga/13_2/blob/main/img/005.png)
+
+![alt text](https://github.com/SergeiShulga/13_2/blob/main/img/006.png)
+
+![alt text](https://github.com/SergeiShulga/13_2/blob/main/img/007.png)
+
+![alt text](https://github.com/SergeiShulga/13_2/blob/main/img/008.png)
+
 ### Задание 3 *
 
 Установите apparmor.
