@@ -51,3 +51,5 @@
 Отключите (удалите) apparmor.
 
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
+
+![alt text](https://github.com/SergeiShulga/13_2/blob/main/img/009.png)
