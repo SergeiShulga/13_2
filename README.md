@@ -10,7 +10,7 @@
 Добавьте пользователя cryptouser.
 
 - adduser cryptouser
-
+![alt text](https://github.com/SergeiShulga/13_2/blob/main/img/001.png)
 Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 
 Скрипт-обёртка ecryptfs-migrate-home создаст зашифрованный домашний каталог для пользователя и позаботится о переносе всех существующих файлов из ещё не зашифрованного домашнего каталога.
@@ -21,6 +21,9 @@
 - ecryptfs-migrate-home -u cryptouser
 
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
+
+![alt text](https://github.com/SergeiShulga/13_2/blob/main/img/002.png)
+
 
 ### Задание 2
 
